@@ -1,0 +1,16 @@
+C:\dev\Interpolacao\bin\Debug\net5.0\Interpolacao.exe
+C:\dev\Interpolacao\bin\Debug\net5.0\Interpolacao.deps.json
+C:\dev\Interpolacao\bin\Debug\net5.0\Interpolacao.runtimeconfig.json
+C:\dev\Interpolacao\bin\Debug\net5.0\Interpolacao.runtimeconfig.dev.json
+C:\dev\Interpolacao\bin\Debug\net5.0\Interpolacao.dll
+C:\dev\Interpolacao\bin\Debug\net5.0\ref\Interpolacao.dll
+C:\dev\Interpolacao\bin\Debug\net5.0\Interpolacao.pdb
+C:\dev\Interpolacao\obj\Debug\net5.0\Interpolacao.csproj.AssemblyReference.cache
+C:\dev\Interpolacao\obj\Debug\net5.0\Interpolacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Interpolacao\obj\Debug\net5.0\Interpolacao.AssemblyInfoInputs.cache
+C:\dev\Interpolacao\obj\Debug\net5.0\Interpolacao.AssemblyInfo.cs
+C:\dev\Interpolacao\obj\Debug\net5.0\Interpolacao.csproj.CoreCompileInputs.cache
+C:\dev\Interpolacao\obj\Debug\net5.0\Interpolacao.dll
+C:\dev\Interpolacao\obj\Debug\net5.0\ref\Interpolacao.dll
+C:\dev\Interpolacao\obj\Debug\net5.0\Interpolacao.pdb
+C:\dev\Interpolacao\obj\Debug\net5.0\Interpolacao.genruntimeconfig.cache

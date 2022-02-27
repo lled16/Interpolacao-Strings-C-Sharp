@@ -1,0 +1,16 @@
+C:\dev\Interpolacao\bin\Debug\net5.0\oduloStrings.exe
+C:\dev\Interpolacao\bin\Debug\net5.0\oduloStrings.deps.json
+C:\dev\Interpolacao\bin\Debug\net5.0\oduloStrings.runtimeconfig.json
+C:\dev\Interpolacao\bin\Debug\net5.0\oduloStrings.runtimeconfig.dev.json
+C:\dev\Interpolacao\bin\Debug\net5.0\oduloStrings.dll
+C:\dev\Interpolacao\bin\Debug\net5.0\ref\oduloStrings.dll
+C:\dev\Interpolacao\bin\Debug\net5.0\oduloStrings.pdb
+C:\dev\Interpolacao\obj\Debug\net5.0\oduloStrings.csproj.AssemblyReference.cache
+C:\dev\Interpolacao\obj\Debug\net5.0\oduloStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Interpolacao\obj\Debug\net5.0\oduloStrings.AssemblyInfoInputs.cache
+C:\dev\Interpolacao\obj\Debug\net5.0\oduloStrings.AssemblyInfo.cs
+C:\dev\Interpolacao\obj\Debug\net5.0\oduloStrings.csproj.CoreCompileInputs.cache
+C:\dev\Interpolacao\obj\Debug\net5.0\oduloStrings.dll
+C:\dev\Interpolacao\obj\Debug\net5.0\ref\oduloStrings.dll
+C:\dev\Interpolacao\obj\Debug\net5.0\oduloStrings.pdb
+C:\dev\Interpolacao\obj\Debug\net5.0\oduloStrings.genruntimeconfig.cache
